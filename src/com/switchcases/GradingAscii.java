@@ -12,7 +12,7 @@ public class GradingAscii {
 			System.out.println("Grade B");
 			break;
 		case 3:
-			System.out.println("Grade C");
+			System.out.println("Grade D");
 			break;
 
 		case 4:
@@ -31,8 +31,8 @@ public class GradingAscii {
 		case 'b':
 			System.out.println("50–79");
 			break;
-		case 'C':
-		case 'c':
+		case 'D':
+		case 'd':
 			System.out.println("35–49");
 			break;
 		case 'F':
